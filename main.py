@@ -22,4 +22,3 @@ win.onclick(clicked)
 
 qt.draw()
 win.mainloop()
-#win.exitonclick()
